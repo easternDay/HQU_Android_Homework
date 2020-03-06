@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_grid">网格布局</string>
+    <string name="button_table">表格布局</string>
+    <string name="button_frame">帧布局</string>
+    <string name="button_relative">相对布局</string>
+    <string name="button_linear">线性布局</string>
+    <string name="welcome_slogan">姓名：杨祉</string>
+    <string name="horizontal_linear_layout">水平布局</string>
+    <string name="vertical_linear_layout">垂直布局</string>
+    <string name="left_linear_layout">靠左对齐</string>
+    <string name="back_linear_layout">返回主界面</string>
+    <string name="android_relative_layout">Android</string>
+    <string name="china_relative_layout">China</string>
+    <string name="world_relative_layout">World</string>
+    <string name="hello_relative_layout">Hello</string>
+    <string name="button_table_activityt">Button</string>
+    <string name="a_table_activity">A</string>
+    <string name="is_table_activity">Is</string>
+    <string name="this_table_activity">This</string>
+</resources>
